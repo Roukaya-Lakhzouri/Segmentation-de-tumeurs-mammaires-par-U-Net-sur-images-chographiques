@@ -26,7 +26,7 @@ Ce projet a pour objectif de segmenter les images échographiques du sein pour i
 
 ## 📁 Contenu du projet
 
-- 📓 [`breast_segmentation.ipynb`](lien_vers_le_colab) : Fichier Google Colab contenant tout le code (prétraitement, architecture U-Net, entraînement, prédiction, visualisation).
+- 📓 [`Breast_cancer_Image_Segmentation_UNET`](https://colab.research.google.com/drive/1w84ilROPSIVFHxhhV7WII4YCajN5WylN#scrollTo=10ea04cc-70ad-4312-b00d-993e8a19b6b2) : Fichier Google Colab contenant tout le code (prétraitement, architecture U-Net, entraînement, prédiction, visualisation).
 - 📄 Dataset utilisé : images échographiques du sein annotées (lien ou description à ajouter)
 - 📸 Résultats : affichage des masques prédits comparés aux masques réels
 
